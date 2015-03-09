@@ -1,10 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=latex 2012.8.5)  10 MAR 2015 00:12
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=latex 2012.8.5)  10 MAR 2015 07:42
 entering extended mode
-**C:/Users/Admin/Documents/GitHub/mean*and*risk*densities/mean-and-risk-densiti
-es/Risk*decomposition.tex
-
-("C:/Users/Admin/Documents/GitHub/mean and risk densities/mean-and-risk-densiti
-es/Risk decomposition.tex"
+**C:/Users/Admin/Documents/GitHub/Risk-decomposition/Risk*decomposition.tex
+("C:/Users/Admin/Documents/GitHub/Risk-decomposition/Risk decomposition.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -90,8 +87,7 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 \@sep=\skip43
 \@@sep=\skip44
 
-("C:\Users\Admin\Documents\GitHub\mean and risk densities\mean-and-risk-densiti
-es\Risk decomposition.spl")
+("C:\Users\Admin\Documents\GitHub\Risk-decomposition\Risk decomposition.spl")
 ("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip45
@@ -116,8 +112,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 \CommentStream=\write4
 
 Excluding comment 'comment')
-("C:\Users\Admin\Documents\GitHub\mean and risk densities\mean-and-risk-densiti
-es\Risk decomposition.aux")
+("C:\Users\Admin\Documents\GitHub\Risk-decomposition\Risk decomposition.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
 LaTeX Font Info:    ... okay on input line 62.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
@@ -198,10 +193,9 @@ Overfull \hbox (11.77202pt too wide) in paragraph at lines 576--580
  []
 
 [17] [18] [19] [20]
-("C:\Users\Admin\Documents\GitHub\mean and risk densities\mean-and-risk-densiti
-es\Risk decomposition.bbl") [21]
-("C:\Users\Admin\Documents\GitHub\mean and risk densities\mean-and-risk-densiti
-es\Risk decomposition.aux")
+("C:\Users\Admin\Documents\GitHub\Risk-decomposition\Risk decomposition.bbl")
+[21] ("C:\Users\Admin\Documents\GitHub\Risk-decomposition\Risk decomposition.au
+x")
 
 LaTeX Warning: There were undefined references.
 
@@ -212,11 +206,11 @@ LaTeX Warning: There were undefined references.
 ### bottom level 
 Here is how much of TeX's memory you used:
  1392 strings out of 493922
- 17690 string characters out of 3147306
+ 17371 string characters out of 3147306
  73878 words of memory out of 3000000
  4677 multiletter control sequences out of 15000+200000
  10950 words of font info for 42 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 32i,10n,34p,904b,1815s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,10n,34p,875b,1815s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on "Risk decomposition.dvi" (21 pages, 92784 bytes).
+Output written on "Risk decomposition.dvi" (21 pages, 87912 bytes).
