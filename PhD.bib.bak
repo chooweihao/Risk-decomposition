@@ -1,0 +1,1724 @@
+
+@book{hogg2009loss,
+  title={Loss distributions},
+  author={Hogg, Robert V and Klugman, Stuart A},
+  volume={249},
+  year={2009},
+  publisher={John Wiley \& Sons}
+}
+
+
+@article{zhou2010dependence,
+  title={Dependence structure of risk factors and diversification effects},
+  author={Zhou, Chen},
+  journal={Insurance: Mathematics and Economics},
+  volume={46},
+  number={3},
+  pages={531--540},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{modigliani1997risk,
+  title={Risk-adjusted performance},
+  author={Modigliani, Franco and Modigliani, Leah},
+  journal={The Journal of Portfolio Management},
+  volume={23},
+  number={2},
+  pages={45--54},
+  year={1997},
+  publisher={Institutional Investor Journals}
+}
+
+@article{alink2004diversification,
+  title={Diversification of aggregate dependent risks},
+  author={Alink, Stan and L{\"o}we, Matthias and V W{\"u}thrich, Mario},
+  journal={Insurance: Mathematics and Economics},
+  volume={35},
+  number={1},
+  pages={77--95},
+  year={2004},
+  publisher={Elsevier}
+}
+
+@article{dana2003modelling,
+  title={Modelling agents’ preferences in complete markets by second order stochastic dominance},
+  author={Dana, Rose-Anne and Meilijson, Isaac},
+  year={2003}
+}
+
+
+@article{whitt1985uniform,
+  title={Uniform conditional variability ordering of probability distributions},
+  author={Whitt, Ward},
+  journal={Journal of Applied Probability},
+  pages={619--633},
+  year={1985},
+  publisher={JSTOR}
+}
+
+
+@article{shaked1998two,
+  title={Two variability orders},
+  author={Shaked, Moshe and Shantikumar, JG},
+  journal={Probability in the Engineering and Informational Sciences},
+  volume={12},
+  pages={1--24},
+  year={1998},
+  publisher={Cambridge Univ Press}
+}
+
+
+@article{denuitactuarial,
+  title={Actuarial Theory for Dependent Risks: Measures, Orders and Models. },
+  author={Denuit, M and Dhaene, J and Goovaerts, M and Kaas, R},
+  year={2005},
+  journal={John Wiley\&Sons}
+}
+
+
+@book{enz2002insurance,
+  title={The insurance cycle as an entrepreneurial challenge},
+  author={Enz, R. and Re, S.},
+  year={2002},
+  publisher={Swiss Re}
+}
+
+@article{de2011capital,
+  title={Capital adequacy of financial enterprises},
+  author={De Jong, P. and Madan, D.B.},
+  journal={Available at SSRN 1761107},
+  year={2011}
+}
+
+
+@article{ali1966general,
+  title={A general class of coefficients of divergence of one distribution from another},
+  author={Ali, SM and Silvey, S.D.},
+  journal={Journal of the Royal Statistical Society. Series B (Methodological)},
+  pages={131--142},
+  year={1966},
+  publisher={JSTOR}
+}
+
+
+@article{cha2007comprehensive,
+  title={Comprehensive survey on distance/similarity measures between probability density functions},
+  author={Cha, S.H.},
+  journal={City},
+  volume={1},
+  number={2},
+  pages={1},
+  year={2007},
+  publisher={Citeseer}
+}
+
+@book{gray2006modern,
+  title={Modern differential geometry of curves and surfaces with Mathematica},
+  author={Gray, A. and Abbena, E. and Salamon, S.},
+  year={2006},
+  publisher={Chapman \& Hall/CRC}
+}
+
+@article{perron1907theorie,
+  title={Zur theorie der matrices},
+  author={Perron, O.},
+  journal={Mathematische Annalen},
+  volume={64},
+  number={2},
+  pages={248--263},
+  year={1907},
+  publisher={Springer}
+}
+
+@book{frobenius1912matrizen,
+  title={{\"U}ber Matrizen aus nicht negativen Elementen},
+  author={Frobenius, F.G.},
+  year={1912},
+  publisher={K{\"o}nigliche Akademie der Wissenschaften}
+}
+
+@book{gilks1996markov,
+  title={Markov chain Monte Carlo in practice},
+  author={Gilks, W.R. and Richardson, S. and Spiegelhalter, D.J.},
+  year={1996},
+  publisher={Chapman \& Hall/CRC}
+}
+
+@book{poli?a?nin2008handbook,
+  title={Handbook of integral equations},
+  author={Poli?a?nin, A.D. and Manzhirov, A.V.},
+  year={2008},
+  publisher={CRC press}
+}
+
+@book{kuczma2009introduction,
+  title={An introduction to the theory of functional equations and inequalities: Cauchy's equation and Jensen's inequality},
+  author={Kuczma, M. and Gil{\'a}nyi, A.},
+  year={2009},
+  publisher={Birkhauser}
+}
+
+@article{tasche2007capital,
+  title={Capital allocation to business units and sub-portfolios: the Euler principle},
+  author={Tasche, D.},
+  journal={Arxiv preprint arXiv:0708.2542},
+  year={2007}
+}
+
+@misc{shapley1974values,
+  title={Values of non-atomic games},
+  author={Shapley, LS},
+  year={1974},
+  publisher={Princeton University Press, Princeton, NJ}
+}
+
+
+
+
+
+
+
+@article{dhaene2012optimal,
+  title={Optimal capital allocation principles},
+  author={Dhaene, J. and Tsanakas, A. and Valdez, E.A. and Vanduffel, S.},
+  journal={Journal of Risk and Insurance},
+  volume={79},
+  number={1},
+  pages={1--28},
+  year={2012},
+  publisher={Wiley Online Library}
+}
+
+
+
+@article{grundl2007capital,
+  title={Capital Allocation for Insurance Companies—What Good Is It?},
+  author={Gr{\"u}ndl, H. and Schmeiser, H.},
+  journal={Journal of Risk and Insurance},
+  volume={74},
+  number={2},
+  pages={301--317},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+
+
+@book{allen1938mathematical,
+  title={Mathematical analysis for economists},
+  author={Allen, R.G.D.},
+  number={3},
+  year={1938},
+  publisher={Macmillan London}
+}
+
+
+
+@article{lu2004generalized,
+  title={Generalized correlation order and stop-loss order},
+  author={Lu, T.Y. and Yi, Z.},
+  journal={Insurance: Mathematics and Economics},
+  volume={35},
+  number={1},
+  pages={69--76},
+  year={2004},
+  publisher={Elsevier}
+}
+
+@article{van2001class,
+  title={A class of non-expected utility risk measures and implications for asset allocations},
+  author={Van der Hoek, J. and Sherris, M.},
+  journal={Insurance: Mathematics and Economics},
+  volume={28},
+  number={1},
+  pages={69--82},
+  year={2001},
+  publisher={Elsevier}
+}
+
+
+
+@misc{sklar1973random,
+  title={Random variables: joint distribution functions and copulas},
+  author={Sklar, A.},
+  year={1973},
+  publisher={Kybernetika}
+}
+
+@article{kreps2005riskiness,
+  title={Riskiness leverage models},
+  author={Kreps, R.},
+  journal={Proceedings of the Casualty Actuarial Society (PCAS)},
+  volume={92},
+  pages={31--60},
+  year={2005}
+}
+
+@article{jorion2000value,
+  title={Value at risk: the new benchmark for managing financial risk},
+  author={Jorion, P.},
+  journal={New York},
+  year={2000}
+}
+
+@article{cai2005conditional,
+  title={Conditional tail expectations for multivariate phase-type distributions},
+  author={Cai, J. and Li, H.},
+  journal={Journal of Applied Probability},
+  volume={42},
+  number={3},
+  pages={810--825},
+  year={2005},
+  publisher={Applied Probability Trust}
+}
+
+
+@article{yamai2002validity,
+  title={On the validity of value-at-risk: Comparative analyses with expected shortfall},
+  author={Yamai, Y. and Yoshiba, T.},
+  journal={Monetary and Economic Studies},
+  volume={20},
+  number={1},
+  pages={57--85},
+  year={2002},
+  publisher={Institute for Monetary and Economic Studies, Bank of Japan}
+}
+
+@article{acerbi2002coherence,
+  title={On the coherence of expected shortfall},
+  author={Acerbi, C. and Tasche, D.},
+  journal={Journal of Banking \& Finance},
+  volume={26},
+  number={7},
+  pages={1487--1503},
+  year={2002},
+  publisher={Elsevier}
+}
+
+@article{gerber1978pareto,
+  title={Pareto-optimal risk exchanges and related decision problems},
+  author={Gerber, HU},
+  journal={Astin Bulletin},
+  volume={10},
+  number={1},
+  pages={25--33},
+  year={1978}
+}
+
+
+
+@article{aase2002perspectives,
+  title={Perspectives of risk sharing},
+  author={Aase, K.K.},
+  journal={Scandinavian Actuarial Journal},
+  volume={2002},
+  number={2},
+  pages={73--128},
+  year={2002},
+  publisher={Taylor \& Francis}
+}
+
+
+@article{taylor1992risk,
+  title={Risk exchange I: a unification of some existing results},
+  author={Taylor, G.},
+  journal={Scandinavian Actuarial Journal},
+  volume={1992},
+  number={1},
+  pages={15--39},
+  year={1992},
+  publisher={Taylor \& Francis}
+}
+
+
+@article{denault2001coherent,
+  title={Coherent allocation of risk capital},
+  author={Denault, M.},
+  journal={Journal of risk},
+  volume={4},
+  pages={1--34},
+  year={2001}
+}
+
+@article{buch2008coherent,
+  title={Coherent risk measures, coherent capital allocations and the gradient allocation principle},
+  author={Buch, A. and Dorfleitner, G.},
+  journal={Insurance: Mathematics and Economics},
+  volume={42},
+  number={1},
+  pages={235--242},
+  year={2008},
+  publisher={Elsevier}
+}
+
+
+
+@article{myers2001capital,
+  title={Capital allocation for insurance companies},
+  author={Myers, S.C. and Read Jr, J.A.},
+  journal={Journal of Risk and Insurance},
+  pages={545--580},
+  year={2001},
+  publisher={JSTOR}
+}
+
+
+
+@article{rockafellar2002conditional,
+  title={Conditional value-at-risk for general loss distributions},
+  author={Rockafellar, R.T. and Uryasev, S.},
+  journal={Journal of Banking \& Finance},
+  volume={26},
+  number={7},
+  pages={1443--1471},
+  year={2002},
+  publisher={Elsevier}
+}
+
+
+
+@article{ruhm2005general,
+  title={A General Additive Method for Portfolio Risk Analysis},
+  author={Ruhm, D. and Mango, D. and Kreps, R.},
+  journal={submitted to ASTIN Bulletin},
+  year={2005}
+}
+
+
+@article{ruhm2003risk,
+  title={A Risk Charge Calculation Based on Conditional Probability},
+  author={Ruhm, D. and Mango, D. and Total, R.},
+  journal={Risk},
+  volume={200},
+  number={50},
+  pages={1--268},
+  year={2003}
+}
+
+@article{degen2010risk,
+  title={Risk concentration and diversification: second-order properties},
+  author={Degen, Matthias and Lambrigger, Dominik D and Segers, Johan},
+  journal={Insurance: Mathematics and Economics},
+  volume={46},
+  number={3},
+  pages={541--546},
+  year={2010},
+  publisher={Elsevier}
+}
+
+
+@article{alink2007diversification,
+  title={Diversification for general copula dependence},
+  author={Alink, Stan and L{\"o}we, Matthias and W{\"u}thrich, Mario V},
+  journal={Statistica Neerlandica},
+  volume={61},
+  number={4},
+  pages={446--465},
+  year={2007},
+  publisher={Wiley Online Library}
+}
+
+
+@article{dhaene2009correlation,
+  title={Correlation order, merging and diversification},
+  author={Dhaene, J. and Denuit, M. and Vanduffel, S.},
+  journal={Insurance: Mathematics and Economics},
+  volume={45},
+  number={3},
+  pages={325--332},
+  year={2009},
+  publisher={Elsevier}
+}
+
+
+
+@article{dhaene2008can,
+  title={Can a coherent risk measure be too subadditive?},
+  author={Dhaene, J. and Laeven, R.J.A. and Vanduffel, S. and Darkiewicz, G. and Goovaerts, M.J.},
+  journal={Journal of Risk and Insurance},
+  volume={75},
+  number={2},
+  pages={365--386},
+  year={2008},
+  publisher={Wiley Online Library}
+}
+
+
+
+
+
+@article{wang1998comonotonicity,
+  title={Comonotonicity, correlation order and premium principles},
+  author={Wang, S. and Dhaene, J.},
+  journal={Insurance: Mathematics and Economics},
+  volume={22},
+  number={3},
+  pages={235--242},
+  year={1998},
+  publisher={Elsevier}
+}
+
+
+
+@article{dhaene1999safest,
+  title={The safest dependence structure among risks},
+  author={Dhaene, J. and Denuit, M.},
+  journal={Insurance: Mathematics and Economics},
+  volume={25},
+  number={1},
+  pages={11--21},
+  year={1999},
+  publisher={Elsevier}
+}
+
+
+
+@article{dana2003modelling,
+  title={Modelling agentsï¿½ preferences in complete markets by second order stochastic dominance},
+  author={Dana, R.A. and Meilijson, I.},
+  year={2003}
+}
+
+
+@article{denuit2012convex,
+  title={Convex order and comonotonic conditional mean risk sharing},
+  author={Denuit, M. and Dhaene, J.},
+  journal={Insurance: Mathematics and Economics},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{frechet1951tableaux,
+  title={Sur les tableaux de corr{\'e}lation dont les marges sont donn{\'e}es},
+  author={Fr{\'e}chet, M.},
+  journal={Ann. Univ. Lyon Sect. A},
+  volume={9},
+  pages={53--77},
+  year={1951}
+}
+
+@article{block1988multivariate,
+  title={A multivariate extension of Hoeffding's lemma},
+  author={Block, H.W. and Fang, Z.},
+  journal={The Annals of Probability},
+  volume={16},
+  number={4},
+  pages={1803--1820},
+  year={1988},
+  publisher={Institute of Mathematical Statistics}
+}
+
+@article{cuadras2002covariance,
+  title={On the covariance between functions},
+  author={Cuadras, CM},
+  journal={Journal of Multivariate Analysis},
+  volume={81},
+  number={1},
+  pages={19--27},
+  year={2002},
+  publisher={Elsevier}
+}
+
+@article{heath2004pareto,
+  title={Pareto equilibria with coherent measures of risk},
+  author={Heath, D. and Ku, H.},
+  journal={Mathematical Finance},
+  volume={14},
+  number={2},
+  pages={163--172},
+  year={2004},
+  publisher={Wiley Online Library}
+}
+
+@article{tsanakas2006risk,
+  title={Risk exchange with distorted probabilities},
+  author={Tsanakas, A. and Christofides, N.},
+  journal={Astin Bulletin},
+  volume={36},
+  number={1},
+  pages={219},
+  year={2006},
+  publisher={CEUTERICK SA}
+}
+
+
+@article{ludkovski2009optimal,
+  title={Optimal risk sharing under distorted probabilities},
+  author={Ludkovski, M. and Young, V.R.},
+  journal={Mathematics and Financial Economics},
+  volume={2},
+  number={2},
+  pages={87--105},
+  year={2009},
+  publisher={Springer}
+}
+
+
+@article{burgert2008allocation,
+  title={Allocation of risks and equilibrium in markets with finitely many traders},
+  author={Burgert, C. and R{\"u}schendorf, L.},
+  journal={Insurance: Mathematics and Economics},
+  volume={42},
+  number={1},
+  pages={177--188},
+  year={2008},
+  publisher={Elsevier}
+}
+
+
+@article{fragnelli2003fair,
+  title={A fair procedure in insurance},
+  author={Fragnelli, V. and Marina, M.E.},
+  journal={Insurance: Mathematics and Economics},
+  volume={33},
+  number={1},
+  pages={75--85},
+  year={2003},
+  publisher={Elsevier}
+}
+
+
+
+@article{furman2008weighted1,
+  title={Weighted risk capital allocations},
+  author={Furman, E. and Zitikis, R.},
+  journal={Insurance: Mathematics and Economics},
+  volume={43},
+  number={2},
+  pages={263--269},
+  year={2008},
+  publisher={Elsevier}
+}
+
+@article{dhaene2003economic,
+  title={Economic capital allocation derived from risk measures},
+  author={Dhaene, J. and Goovaerts, M. and Kaas, R.},
+  journal={North American Actuarial Journal, Vol. 7, No. 2, pp. 44-59, 2003},
+  year={2003}
+}
+
+
+
+@article{dhaene2008can,
+  title={Can a coherent risk measure be too subadditive?},
+  author={Dhaene, J. and Laeven, R.J.A. and Vanduffel, S. and Darkiewicz, G. and Goovaerts, M.J.},
+  journal={Journal of Risk and Insurance},
+  volume={75},
+  number={2},
+  pages={365--386},
+  year={2008},
+  publisher={Wiley Online Library}
+}
+
+
+
+
+@book{von2007theory,
+  title={Theory of games and economic behavior},
+  author={Von Neumann, J. and Morgenstern, O. and Rubinstein, A. and Kuhn, H.W.},
+  year={2007},
+  publisher={Princeton Univ Pr}
+}
+
+@article{young2004premium,
+  title={Premium principles},
+  author={Young, V.R.},
+  journal={Encyclopedia of Actuarial Science},
+  year={2004},
+  publisher={Wiley Online Library}
+}
+
+@article{furman2008weighted,
+  title={Weighted premium calculation principles},
+  author={Furman, E. and Zitikis, R.},
+  journal={Insurance: Mathematics and Economics},
+  volume={42},
+  number={1},
+  pages={459--465},
+  year={2008},
+  publisher={Elsevier}
+}
+
+
+
+
+
+@article{kamps1998class,
+  title={On a class of premium principles including the Esscher principle},
+  author={Kamps, U.},
+  journal={Scandinavian Actuarial Journal},
+  volume={1998},
+  number={1},
+  pages={75--80},
+  year={1998},
+  publisher={Taylor \& Francis}
+}
+
+
+
+@article{van1989properties,
+  title={Properties of the Esscher premium calculation principle},
+  author={Van Heerwaarden, A.E. and Kaas, R. and Goovaerts, M.J.},
+  journal={Insurance: Mathematics and Economics},
+  volume={8},
+  number={4},
+  pages={261--267},
+  year={1989},
+  publisher={Elsevier}
+}
+
+
+
+@article{dowd2006after,
+  title={After VaR: The theory, estimation, and insurance applications of quantile-based risk measures},
+  author={Dowd, K. and Blake, D.},
+  journal={Journal of Risk and Insurance},
+  volume={73},
+  number={2},
+  pages={193--229},
+  year={2006},
+  publisher={Wiley Online Library}
+}
+
+
+
+@article{black1973pricing,
+  title={The pricing of options and corporate liabilities},
+  author={Black, F. and Scholes, M.},
+  journal={The journal of political economy},
+  pages={637--654},
+  year={1973},
+  publisher={JSTOR}
+}
+
+
+
+@article{hairs2002fair,
+  title={Fair valuation of liabilities},
+  author={Hairs, CJ and Belsham, DJ and Bryson, NM and George, CM and Hare, DJP and Smith, DA and Thompson, S.},
+  journal={British Actuarial Journal},
+  volume={8},
+  number={02},
+  pages={203--299},
+  year={2002},
+  publisher={Cambridge Univ Press}
+}
+
+@article{desmoulins2012non,
+  title={Non-Gaussian diversification: When size matters},
+  author={Desmoulins-Lebeault, Fran{\c{c}}ois and Kharoubi-Rakotomalala, C{\'e}cile},
+  journal={Journal of Banking \& Finance},
+  year={2012},
+  publisher={Elsevier}
+}
+
+
+@article{sharpe1963simplified,
+  title={A simplified model for portfolio analysis},
+  author={Sharpe, William F},
+  journal={Management science},
+  volume={9},
+  number={2},
+  pages={277--293},
+  year={1963},
+  publisher={INFORMS}
+}
+
+@article{dhaene2002concept,
+  title={The concept of comonotonicity in actuarial science and finance: theory},
+  author={Dhaene, J. and Denuit, M. and Goovaerts, M.J. and Kaas, R. and Vyncke, D.},
+  journal={Insurance: Mathematics and Economics},
+  volume={31},
+  number={1},
+  pages={3--33},
+  year={2002},
+  publisher={Elsevier}
+}
+
+
+
+@article{van1992dutch,
+  title={The Dutch premium principle},
+  author={Van Heerwaarden, AE and Kaas, R.},
+  journal={Insurance: Mathematics and Economics},
+  volume={11},
+  number={2},
+  pages={129--133},
+  year={1992},
+  publisher={Elsevier}
+}
+
+
+
+@article{quiggin1982theory,
+  title={A theory of anticipated utility},
+  author={Quiggin, J.},
+  journal={Journal of Economic Behavior \& Organization},
+  volume={3},
+  number={4},
+  pages={323--343},
+  year={1982},
+  publisher={Elsevier}
+}
+
+
+
+@article{heilpern2003rank,
+  title={A rank-dependent generalization of zero utility principle},
+  author={Heilpern, S.},
+  journal={Insurance: Mathematics and Economics},
+  volume={33},
+  number={1},
+  pages={67--73},
+  year={2003},
+  publisher={Elsevier}
+}
+
+
+
+@article{administrator2004solvency,
+  title={Solvency II--towards a new insurance supervisory system in the EU},
+  author={Administrator, U.L. and Ronkainen, V.},
+  journal={Scandinavian Actuarial Journal},
+  volume={2004},
+  number={6},
+  pages={462--474},
+  year={2004},
+  publisher={Taylor \& Francis}
+}
+
+@article{artzner1999application,
+  title={Application of coherent risk measures to capital requirements in insurance},
+  author={Artzner, P.},
+  journal={North American Actuarial Journal},
+  volume={3},
+  number={2},
+  year={1999},
+  publisher={SOCIETY OF ACTUARIES}
+}
+
+@book{hart1996actuarial,
+  title={The actuarial practice of general insurance},
+  author={Hart, D.G. and Buchanan, R.A. and Howe, B.A. and Institute of Actuaries of Australia},
+  year={1996},
+  publisher={Institute of Actuaries of Australia}
+}
+
+
+
+@article{heyde2006good,
+  title={What is a good risk measure: bridging the gaps between data, coherent risk measures, and insurance risk measures},
+  author={Heyde, CC and Kou, SG and Peng, XH},
+  journal={Preprint, Columbia University},
+  year={2006}
+}
+
+
+
+@article{biger1978risk,
+  title={Risk considerations in insurance ratemaking},
+  author={Biger, N. and Kahane, Y.},
+  journal={Journal of Risk and Insurance},
+  pages={121--132},
+  year={1978},
+  publisher={JSTOR}
+}
+
+
+
+@article{martin1999fair,
+  title={Fair value liability valuations},
+  author={Martin, G. and Tsui, D.},
+  journal={Australian Actuarial Journal},
+  volume={5},
+  pages={351--489},
+  year={1999}
+}
+
+
+
+@article{delbaen2000coherent,
+  title={Coherent risk measures},
+  author={Delbaen, F.},
+  journal={Bl{\"a}tter der DGVFM},
+  volume={24},
+  number={4},
+  pages={733--739},
+  year={2000},
+  publisher={Springer}
+}
+
+
+
+@article{tsanakas2003risk,
+  title={Risk measures and theories of choice},
+  author={Tsanakas, A. and Desli, E.},
+  journal={British Actuarial Journal},
+  volume={9},
+  number={4},
+  pages={959--992},
+  year={2003},
+  publisher={Cambridge Univ Press}
+}
+
+@article{cummins2000allocation,
+  title={Allocation of capital in the insurance industry},
+  author={Cummins, J.D.},
+  journal={Risk Management and Insurance Review},
+  volume={3},
+  number={1},
+  pages={7--27},
+  year={2000},
+  publisher={Wiley Online Library}
+}
+
+
+
+@article{tsanakas2003risk1,
+  title={Risk capital allocation and cooperative pricing of insurance liabilities},
+  author={Tsanakas, A. and Barnett, C.},
+  journal={Insurance: Mathematics and Economics},
+  volume={33},
+  number={2},
+  pages={239--254},
+  year={2003},
+  publisher={Elsevier}
+}
+
+@book{dantzig1998linear,
+  title={Linear programming and extensions},
+  author={Dantzig, G.B.},
+  year={1998},
+  publisher={Princeton Univ Pr}
+}
+
+
+
+@article{buhlmann1984general,
+  title={The general economic premium principle},
+  author={B{\"u}hlmann, H.},
+  journal={Astin Bulletin},
+  volume={14},
+  number={1},
+  pages={13--21},
+  year={1984}
+}
+
+@book{buhlmann2005mathematical,
+  title={Mathematical methods in risk theory},
+  author={B{\"u}hlmann, H.},
+  volume={172},
+  year={2005},
+  publisher={Birkh{\"a}user}
+}
+
+
+
+@article{tsanakas2003risk,
+  title={Risk measures and theories of choice},
+  author={Tsanakas, A. and Desli, E.},
+  journal={British Actuarial Journal},
+  volume={9},
+  number={4},
+  pages={959--992},
+  year={2003},
+  publisher={Cambridge Univ Press}
+}
+
+
+
+@article{kaluszka2011pricing,
+  title={Pricing insurance contracts under Cumulative Prospect Theory},
+  author={Kaluszka, M. and Krzeszowiec, M.},
+  journal={Insurance: Mathematics and Economics},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@article{denuit2006risk,
+  title={Risk measurement with equivalent utility principles},
+  author={Denuit, M. and Dhaene, J. and Goovaerts, M. and Kaas, R. and Laeven, R.},
+  year={2006}
+}
+
+
+@article{frees1998understanding,
+  title={Understanding relationships using copulas},
+  author={Frees, E.W. and Valdez, E.A.},
+  journal={North American Actuarial Journal},
+  volume={2},
+  pages={1--25},
+  year={1998},
+  publisher={SOCIETY OF ACTUARIES}
+}
+
+
+@article{marshall1988families,
+  title={Families of multivariate distributions},
+  author={Marshall, A.W. and Olkin, I.},
+  journal={Journal of the American Statistical Association},
+  pages={834--841},
+  year={1988},
+  publisher={JSTOR}
+}
+
+@article{berry2010detecting,
+  title={Detecting fuzzy relationships in regression models: The case of insurer solvency surveillance in Germany},
+  author={Berry-St{\"o}lzle, T.R. and Koissi, M.C. and Shapiro, A.F.},
+  journal={Insurance: Mathematics and Economics},
+  volume={46},
+  number={3},
+  pages={554--567},
+  year={2010},
+  publisher={Elsevier}
+}
+
+@article{shapiro2004fuzzy,
+  title={Fuzzy logic in insurance},
+  author={Shapiro, A.F.},
+  journal={Insurance: Mathematics and Economics},
+  volume={35},
+  number={2},
+  pages={399--424},
+  year={2004},
+  publisher={Elsevier}
+}
+
+
+@article{zadeh1978fuzzy,
+  title={Fuzzy sets as a basis for a theory of possibility* 1},
+  author={Zadeh, L.A.},
+  journal={Fuzzy sets and systems},
+  volume={1},
+  number={1},
+  pages={3--28},
+  year={1978},
+  publisher={Elsevier}
+}
+
+@article{trillas1979funciones,
+  title={Sobre funciones de negaci{\'o}n en la teor{\'\i}a de conjuntos difusos},
+  author={Trillas, E.},
+  journal={Stochastica},
+  volume={3},
+  number={1},
+  pages={47--60},
+  year={1979}
+}
+
+@article{sugeno1977fuzzy,
+  title={Fuzzy measures and fuzzy integrals: a survey},
+  author={Sugeno, M.},
+  journal={Fuzzy automata and decision processes},
+  volume={78},
+  number={33},
+  pages={89--102},
+  year={1977},
+  publisher={New York: North-Holland}
+}
+
+@article{dombi2008towards,
+  title={Towards a general class of operators for fuzzy systems},
+  author={Dombi, J.},
+  journal={Fuzzy Systems, IEEE Transactions on},
+  volume={16},
+  number={2},
+  pages={477--484},
+  year={2008},
+  publisher={IEEE}
+}
+
+
+
+@article{n2001operations,
+  title={Operations on type-2 fuzzy sets},
+  author={N. Karnik, N. and M. Mendel, J.},
+  journal={Fuzzy Sets and Systems},
+  volume={122},
+  number={2},
+  pages={327--348},
+  year={2001},
+  publisher={Elsevier}
+}
+
+@article{atanassov1994new,
+  title={New operations defined over the intuitionistic fuzzy sets},
+  author={Atanassov, K.T.},
+  journal={Fuzzy sets and Systems},
+  volume={61},
+  number={2},
+  pages={137--142},
+  year={1994},
+  publisher={Elsevier}
+}
+
+@article{lemaire1990fuzzy,
+  title={Fuzzy insurance},
+  author={Lemaire, J.},
+  journal={Astin Bulletin},
+  volume={20},
+  number={1},
+  pages={33--55},
+  year={1990}
+}
+
+@article{zadeh1975fuzzy,
+  title={Fuzzy logic and approximate reasoning},
+  author={Zadeh, L.A.},
+  journal={Synthese},
+  volume={30},
+  number={3},
+  pages={407--428},
+  year={1975},
+  publisher={Springer}
+}
+
+@article{de2003applications,
+  title={Applications of fuzzy regression in actuarial analysis},
+  author={De Andr{\'e}s S{\'a}nchez, J. and Terceno Gomez, A.},
+  journal={Journal of Risk and Insurance},
+  volume={70},
+  number={4},
+  pages={665--699},
+  year={2003},
+  publisher={Wiley Online Library}
+}
+
+@article{de2007claim,
+  title={Claim reserving with fuzzy regression and Taylor's geometric separation method},
+  author={de Andres-Sanchez, J.},
+  journal={Insurance: Mathematics and Economics},
+  volume={40},
+  number={1},
+  pages={145--163},
+  year={2007},
+  publisher={Elsevier}
+}
+
+@article{biffisfair,
+  title={Fair value of insurance liabilities},
+  author={Biffis, E. and Millossovich, P.},
+  journal={Encyclopedia of Quantitative Risk Analysis and Assessment},
+  publisher={Wiley Online Library}
+}
+
+@article{europÃ©ensolvency,
+  title={Solvency II Glossary Comit{\'e} Europ{\'e}en des Assurances--Groupe Consultatif Actuariel Europ{\'e}en},
+  author={Europ{\'e}en, G.C.A.}
+}
+
+@article{eling2007solvency,
+  title={The Solvency II process: Overview and critical analysis},
+  author={Eling, M. and Schmeiser, H. and Schmit, J.T.},
+  journal={Risk Management and Insurance Review},
+  volume={10},
+  number={1},
+  pages={69},
+  year={2007},
+  publisher={Blackwell Publishing Ltd.}
+}
+
+@article{friedlob1999fuzzy,
+  title={Fuzzy logic: application for audit risk and uncertainty},
+  author={Friedlob, G.T. and Schleifer, L.L.F.},
+  journal={Managerial Auditing Journal},
+  volume={14},
+  number={3},
+  pages={127--137},
+  year={1999},
+  publisher={MCB UP Ltd}
+}
+
+
+
+@article{decapital,
+  title={Capital Adequacy of Financial Enterprises},
+  author={De Jong, P. and Madan, D.B.}
+}
+
+@article{evans2001exposure,
+  title={Exposure Rating Loss Layers: Unifying the Property Perspective of Severity with the L iab ility Perspective of Frequency},
+  author={Evans, Jonathan},
+  journal={Including the Reserves Call Papers},
+  pages={493},
+  year={2001},
+  publisher={Citeseer}
+}
+
+
+
+@article{salzmann1963rating,
+  title={Rating by layer of insurance},
+  author={Salzmann, Ruth E},
+  journal={PC, 4S},
+  pages={15--26},
+  year={1963}
+}
+
+
+@book{shaked2007stochastic,
+  title={Stochastic orders},
+  author={Shaked, Moshe and Shanthikumar, J George},
+  year={2007},
+  publisher={Springer Science \& Business Media}
+}
+
+
+
+@article{wang1995insurance,
+  title={Insurance pricing and increased limits ratemaking by proportional hazards transforms},
+  author={Wang, S.},
+  journal={Insurance: Mathematics and Economics},
+  volume={17},
+  number={1},
+  pages={43--54},
+  year={1995},
+  publisher={Elsevier}
+}
+
+
+
+@article{choo2009loss,
+  title={Loss reserving using loss aversion functions},
+  author={Choo, W. and De Jong, P.},
+  journal={Insurance: Mathematics and Economics},
+  volume={45},
+  number={2},
+  pages={271--277},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{choo2010determining,
+  title={Determining and allocating diversification benefits for a portfolio of risks},
+  author={Choo, W. and De Jong, P.},
+  journal={Astin Bulletin},
+  volume={40},
+  number={1},
+  pages={257--269},
+  year={2010}
+}
+
+
+
+@article{rabin2000risk,
+  title={Risk aversion and expected-utility theory: A calibration theorem},
+  author={Rabin, M.},
+  journal={Econometrica},
+  volume={68},
+  number={5},
+  pages={1281--1292},
+  year={2000},
+  publisher={Wiley Online Library}
+}
+
+
+
+@article{acerbi2002spectral,
+  title={Spectral measures of risk: a coherent representation of subjective risk aversion},
+  author={Acerbi, C.},
+  journal={Journal of Banking \& Finance},
+  volume={26},
+  number={7},
+  pages={1505--1518},
+  year={2002},
+  publisher={Elsevier}
+}
+
+
+
+@article{choo2009loss,
+  title={Loss reserving using loss aversion functions},
+  author={Choo, W. and De Jong, P.},
+  journal={Insurance: Mathematics and Economics},
+  volume={45},
+  number={2},
+  pages={271--277},
+  year={2009},
+  publisher={Elsevier}
+}
+
+
+
+@article{haezendonck1982new,
+  title={A new premium calculation principle based on Orlicz norms},
+  author={Haezendonck, M. and others},
+  journal={Insurance: Mathematics and Economics},
+  volume={1},
+  number={1},
+  pages={41--53},
+  year={1982},
+  publisher={Elsevier}
+}
+
+@article{gerber1985additive,
+  title={On additive principles of zero utility},
+  author={Gerber, H.U.},
+  journal={Insurance: Mathematics and Economics},
+  volume={4},
+  number={4},
+  pages={249--251},
+  year={1985},
+  publisher={Elsevier}
+}
+
+@article{tasche2002expected,
+  title={Expected shortfall and beyond},
+  author={Tasche, D.},
+  journal={Journal of Banking \& Finance},
+  volume={26},
+  number={7},
+  pages={1519--1533},
+  year={2002},
+  publisher={Elsevier}
+}
+
+
+
+@article{gerber1974additive,
+  title={On additive premium calculation principles},
+  author={Gerber, H.U.},
+  journal={Astin Bulletin},
+  volume={7},
+  number={3},
+  pages={215--222},
+  year={1974}
+}
+
+
+@article{bellini2008haezendonck,
+  title={On Haezendonck risk measures},
+  author={Bellini, F. and Rosazza Gianin, E.},
+  journal={Journal of Banking \& Finance},
+  volume={32},
+  number={6},
+  pages={986--994},
+  year={2008},
+  publisher={Elsevier}
+}
+
+
+
+@article{deprez1985convex,
+  title={On convex principles of premium calculation* 1},
+  author={Deprez, O. and Gerber, H.U.},
+  journal={Insurance: Mathematics and Economics},
+  volume={4},
+  number={3},
+  pages={179--189},
+  year={1985},
+  publisher={Elsevier}
+}
+
+@article{banach1922operations,
+  title={Sur les op{\'e}rations dans les ensembles abstraits et leur application aux {\'e}quations int{\'e}grales},
+  author={Banach, S.},
+  journal={Fund. Math},
+  volume={3},
+  number={133-181},
+  pages={10},
+  year={1922}
+}
+
+
+
+@book{buhlmann2005mathematical,
+  title={Mathematical methods in risk theory},
+  author={B{\"u}hlmann, H.},
+  volume={172},
+  year={2005},
+  publisher={Birkh{\"a}user}
+}
+
+
+
+
+@book{hardy1934inequalities,
+  title={Inequalities},
+  author={Hardy, G.H. and Littlewood, J.E. and P{\'o}lya, G.},
+  year={1934},
+  publisher={The University press}
+}
+
+@article{goovaerts1984insurance,
+  title={Insurance premiums},
+  author={Goovaerts, M. and De Vylder, FE and Haezendonck, J.},
+  journal={status: published},
+  pages={1--398},
+  year={1984},
+  publisher={North-Holland}
+}
+
+
+
+@article{goovaerts2005unified,
+  title={A unified approach to generate risk measures},
+  author={Goovaerts, M.J. and Kaas, R. and Dhaene, J. and Tang, Q.},
+  journal={Astin Bulletin},
+  volume={33},
+  number={2},
+  pages={173--191},
+  year={2005}
+}
+
+
+
+@book{mcneil2005qrm,
+  title={{Quantitative risk management}},
+  author={McNeil, A.J. and Frey, R. and Embrechts, P.},
+  year={2005},
+  publisher={Princeton University Press}
+}
+
+@article{nelson1999ic,
+  title={{An Introduction to Copulas}},
+  author={Nelson, R.B.},
+  journal={Lecture Notes in Statistics},
+  volume={139},
+  year={1999}
+}
+
+@article{sklar1959frd,
+  title={{Fonctions de repartition an dimensions et leurs marges}},
+  author={Sklar, A.},
+  journal={Publ. Inst. Statist. Univ. Paris},
+  volume={8},
+  pages={229--231},
+  year={1959}
+}
+
+@book{blackman1959mps,
+  title={{The measurement of power spectra: from the point of view of communications engineering}},
+  author={Blackman, R.B. and Tukey, J.W.},
+  year={1959},
+  publisher={Dover Publications}
+}
+
+@article{box1964at,
+  title={{An analysis of transformation}},
+  author={Box, G.E.P. and Cox, D.R.},
+  journal={Journal of the Royal Statistical Society},
+  volume={26},
+  number={2},
+  pages={211--252},
+  year={1964}
+}
+
+@article{tadikamalla1980lba,
+  title={{A Look at the Burr and Related Distributions}},
+  author={Tadikamalla, P.R.},
+  journal={International Statistical Review/Revue Internationale de Statistique},
+  volume={48},
+  number={3},
+  pages={337--344},
+  year={1980},
+  publisher={JSTOR}
+}
+
+@article{mcdonald1995gbd,
+  title={{A generalization of the beta distribution with applications}},
+  author={McDonald, JB and Xu, YJ},
+  journal={Journal of Econometrics},
+  volume={66},
+  number={1},
+  pages={133--152},
+  year={1995},
+  publisher={Elsevier}
+}
+
+@article{strassburger:mds,
+  title={{Modeling of Dependence Structures in Risk Management and Solvency}},
+  author={Stra{\ss}burger, D.}
+}
+
+@article{wang1997aci,
+  title={{Axiomatic characterization of insurance prices}},
+  author={Wang, S.S. and Young, V.R. and Panjer, H.H.},
+  journal={Insurance Mathematics and Economics},
+  volume={21},
+  number={2},
+  pages={173--183},
+  year={1997},
+  publisher={Elsevier}
+}
+
+@article{wang2001rmg,
+  title={{A risk measure that goes beyond coherence}},
+  author={Wang, S.},
+  journal={Research Report},
+  pages={01--18},
+  year={2001}
+}
+
+@article{wang2000cdo,
+  title={{A class of distortion operators for pricing financial and insurance risks}},
+  author={Wang, S.S.},
+  journal={Journal of Risk and Insurance},
+  volume={67},
+  number={1},
+  pages={15--36},
+  year={2000},
+  publisher={JSTOR}
+}
+
+@article{wang1996pct,
+  title={{Premium Calculation by Transforming the Premium Layer Density}},
+  author={Wang, SS},
+  journal={ASTIN Bulletin},
+  volume={26},
+  number={1},
+  pages={71--92},
+  year={1996}
+}
+
+@article{wang1997aci,
+  title={{Axiomatic characterization of insurance prices}},
+  author={Wang, S.S. and Young, V.R. and Panjer, H.H.},
+  journal={Insurance Mathematics and Economics},
+  volume={21},
+  number={2},
+  pages={173--183},
+  year={1997},
+  publisher={Elsevier}
+}
+
+
+
+@article{artzner1999cmr,
+  title={{COHERENT MEASURES OF RISK}},
+  author={Artzner, P. and Delbaen, F. and Eber, J.M. and Heath, D.},
+  journal={Mathematical Finance},
+  volume={9},
+  number={3},
+  pages={203--228},
+  year={1999}
+}
+
+@article{markowitz1952ps,
+  title={{Portfolio Selection}},
+  author={Markowitz, H.},
+  journal={Journal of Finance},
+  volume={7},
+  number={1},
+  pages={77--91},
+  year={1952},
+  publisher={JSTOR}
+}
+
+@article{sharpe1964cap,
+  title={{Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk}},
+  author={Sharpe, W.F.},
+  journal={Journal of Finance},
+  volume={19},
+  number={3},
+  pages={425--442},
+  year={1964},
+  publisher={JSTOR}
+}
+
+@article{lintner1965vra,
+  title={{The valuation of risk assets and the selection of risky investments in stock portfolios and capital budgets}},
+  author={Lintner, J.},
+  journal={Review of Economics and Statistics},
+  volume={47},
+  number={1},
+  pages={13--37},
+  year={1965},
+  publisher={JSTOR}
+}
+
+@book{luenberger1998is,
+  title={{Investment Science}},
+  author={Luenberger, D.G.},
+  year={1998},
+  publisher={Oxford University Press, USA}
+}
+
+@article{mossin1966eca,
+  title={{Equilibrium in a Capital Asset Market}},
+  author={Mossin, J.},
+  journal={Econometrica},
+  volume={34},
+  number={4},
+  pages={768--783},
+  year={1966},
+  publisher={JSTOR}
+}
+
+@article{wang1995ipa,
+  title={{Insurance pricing and increased limits ratemaking by proportional hazards transforms}},
+  author={Wang, S.},
+  journal={Insurance Mathematics \& Economics},
+  volume={17},
+  number={1},
+  pages={43--54},
+  year={1995}
+}
+
+@article{denault2001car,
+  title={{Coherent allocation of risk capital}},
+  author={Denault, M.},
+  journal={JOURNAL OF RISK},
+  volume={4},
+  pages={1--34},
+  year={2001}
+}
+
+@article{kalkbrener2005aac,
+  title={{AN AXIOMATIC APPROACH TO CAPITAL ALLOCATION}},
+  author={Kalkbrener, M.},
+  journal={An International Journal of Mathematics, Statistics and Financial Economics},
+  volume={15},
+  number={3},
+  pages={425--437},
+  year={2005},
+  publisher={Blackwell Synergy}
+}
+
+@article{venter1991pci,
+  title={{Premium calculation implications of reinsurance without arbitrage}},
+  author={Venter, G.G.},
+  journal={ASTIN Bulletin},
+  volume={21},
+  number={2},
+  pages={223--230},
+  year={1991}
+}
+
+@article{kreps2005rlm,
+  title={{Riskiness Leverage Models}},
+  author={Kreps, R.},
+  journal={Proceedings of the Casualty Actuarial Society (PCAS)},
+  volume={92},
+  pages={31--60},
+  year={2005}
+}
+
+@article{ruhm2003rcc,
+  title={{A Risk Charge Calculation Based on Conditional Probability}},
+  author={Ruhm, D. and Mango, D. and Total, R.},
+  journal={Risk},
+  volume={200},
+  number={50},
+  pages={1--268},
+  year={2003}
+}
+
+@conference{butsic1993rcm,
+  title={{Report On Covariance Method For Property-Casualty Risk-Based Capitalï¿½}},
+  author={Butsic, R.},
+  booktitle={Casualty Actuarial Society Forum},
+  pages={173--202},
+  year={1993}
+}
+
+@article{dhaene2005aec,
+  title={{Aggregating Economic Capital}},
+  author={Dhaene, J. and Goovaerts, M. and Lundin, M. and Vanduffel, S.},
+  journal={Belgian Actuarial Bulletin},
+  volume={5},
+  pages={14--25},
+  year={2005}
+}
+
+@article{cummins2000aci,
+  title={{Allocation of Capital in the Insurance Industry}},
+  author={Cummins, J.D.},
+  journal={Risk Management \& Insurance Review},
+  volume={3},
+  number={1},
+  pages={7--27},
+  year={2000},
+  publisher={Blackwell Synergy}
+}
+
+@article{venter2004cas,
+  title={{Capital Allocation Survey with Commentary}},
+  author={Venter, G.G.},
+  journal={NORTH AMERICAN ACTUARIAL JOURNAL},
+  volume={8},
+  number={2},
+  pages={96--125},
+  year={2004},
+  publisher={SOCIETY OF ACTUARIES}
+}
+
+@article{kaye2005grm,
+  title={{A Guide to Risk Measurement, Capital Allocation and Related Decision Support Issues}},
+  author={Kaye, P.},
+  journal={Casualty Actuarial Society 2005 Discussion Paper Program},
+  year={2005}
+}
+
+@article{myers2001cai,
+  title={{Capital Allocation for Insurance Companies}},
+  author={Myers, S.C. and Read, J.A.},
+  journal={JOURNAL OF RISK AND INSURANCE},
+  volume={68},
+  number={4},
+  pages={545--580},
+  year={2001}
+}
+
+@article{tasche2007eat,
+  title={{Euler Allocation: Theory and Practice}},
+  author={Tasche, D.},
+  journal={Arxiv preprint arXiv:0708.2542},
+  year={2007}
+}
+
+@article{tasche1999rca,
+  title={{Risk contributions and performance measurement}},
+  author={Tasche, D.},
+  journal={Preprint, Technische Universitat Munchen. http://www. ma. tum. de/stat},
+  year={1999}
+}
+
+@article{yaari1987dtc,
+  title={{The dual theory of choice under risk}},
+  author={Yaari, M.E.},
+  journal={Econometrica},
+  volume={55},
+  number={1},
+  pages={95--115},
+  year={1987}
+}
+
+@article{kahneman1979prospect,
+  title={Prospect theory: An analysis of decision under risk},
+  author={Kahneman, D. and Tversky, A.},
+  journal={Econometrica: Journal of the Econometric Society},
+  pages={263--291},
+  year={1979},
+  publisher={JSTOR}
+}
+
+
+
+
+
+@article{tversky1992apt,
+  title={{Advances in prospect theory: Cumulative representation of uncertainty}},
+  author={Tversky, A. and Kahneman, D.},
+  journal={Journal of Risk and Uncertainty},
+  volume={5},
+  number={4},
+  pages={297--323},
+  year={1992},
+  publisher={Springer}
+}
+
+@book{savage1972fs,
+  title={{The Foundations of Statistics}},
+  author={Savage, L.J.},
+  year={1972},
+  publisher={Dover Publications}
+}
+
+@book{embrechts1996avf,
+  title={{Actuarial Versus Financial Pricing of Insurance}},
+  author={Embrechts, P. and Center, W.F.I.},
+  year={1996},
+  publisher={Wharton Financial Institutions Center, Wharton School of the University of Pennsylvania}
+}

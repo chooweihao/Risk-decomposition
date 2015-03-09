@@ -1,0 +1,75 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Chernobai, Rachev, and Fabozzi}{Chernobai
+  et~al.}{2008}]{chernobai2008operational}
+Chernobai, A.~S., S.~T. Rachev, and F.~J. Fabozzi (2008).
+\newblock {\em Operational risk: a guide to Basel II capital requirements,
+  models, and analysis}, Volume 180.
+\newblock John Wiley \& Sons.
+
+\bibitem[\protect\citeauthoryear{Choo and De~Jong}{Choo and
+  De~Jong}{2009}]{choo2009loss}
+Choo, W. and P.~De~Jong (2009).
+\newblock Loss reserving using loss aversion functions.
+\newblock {\em Insurance: Mathematics and Economics\/}~{\em 45\/}(2), 271--277.
+
+\bibitem[\protect\citeauthoryear{Eling, Schmeiser, and Schmit}{Eling
+  et~al.}{2007}]{eling2007solvency}
+Eling, M., H.~Schmeiser, and J.~Schmit (2007).
+\newblock The solvency ii process: Overview and critical analysis.
+\newblock {\em Risk Management and Insurance Review\/}~{\em 10\/}(1), 69.
+
+\bibitem[\protect\citeauthoryear{Evans}{Evans}{2001}]{evans2001exposure}
+Evans, J. (2001).
+\newblock Exposure rating loss layers: Unifying the property perspective of
+  severity with the l iab ility perspective of frequency.
+\newblock {\em Including the Reserves Call Papers\/}, 493.
+
+\bibitem[\protect\citeauthoryear{Hogg and Klugman}{Hogg and
+  Klugman}{2009}]{hogg2009loss}
+Hogg, R.~V. and S.~A. Klugman (2009).
+\newblock {\em Loss distributions}, Volume 249.
+\newblock John Wiley \& Sons.
+
+\bibitem[\protect\citeauthoryear{Salzmann}{Salzmann}{1963}]{salzmann1963rating}
+Salzmann, R.~E. (1963).
+\newblock Rating by layer of insurance.
+\newblock {\em PC, 4S\/}, 15--26.
+
+\bibitem[\protect\citeauthoryear{Shaked and Shanthikumar}{Shaked and
+  Shanthikumar}{2007}]{shaked2007stochastic}
+Shaked, M. and J.~G. Shanthikumar (2007).
+\newblock {\em Stochastic orders}.
+\newblock Springer Science \& Business Media.
+
+\bibitem[\protect\citeauthoryear{Tversky and Kahneman}{Tversky and
+  Kahneman}{1992}]{tversky1992apt}
+Tversky, A. and D.~Kahneman (1992).
+\newblock {Advances in prospect theory: Cumulative representation of
+  uncertainty}.
+\newblock {\em Journal of Risk and Uncertainty\/}~{\em 5\/}(4), 297--323.
+
+\bibitem[\protect\citeauthoryear{Wang}{Wang}{1995}]{wang1995insurance}
+Wang, S. (1995).
+\newblock Insurance pricing and increased limits ratemaking by proportional
+  hazards transforms.
+\newblock {\em Insurance: Mathematics and Economics\/}~{\em 17\/}(1), 43--54.
+
+\bibitem[\protect\citeauthoryear{Wang}{Wang}{1996}]{wang1996pct}
+Wang, S. (1996).
+\newblock {Premium Calculation by Transforming the Premium Layer Density}.
+\newblock {\em ASTIN Bulletin\/}~{\em 26\/}(1), 71--92.
+
+\bibitem[\protect\citeauthoryear{Wang}{Wang}{2000}]{wang2000cdo}
+Wang, S. (2000).
+\newblock {A class of distortion operators for pricing financial and insurance
+  risks}.
+\newblock {\em Journal of Risk and Insurance\/}~{\em 67\/}(1), 15--36.
+
+\bibitem[\protect\citeauthoryear{Wang, Young, and Panjer}{Wang
+  et~al.}{1997}]{wang1997aci}
+Wang, S., V.~Young, and H.~Panjer (1997).
+\newblock {Axiomatic characterization of insurance prices}.
+\newblock {\em Insurance Mathematics and Economics\/}~{\em 21\/}(2), 173--183.
+
+\end{thebibliography}
