@@ -104,7 +104,7 @@ $
 L_{k+\de k}(x) - L_k(x)
 $
 where $L_k(x) \equiv \min(x,k)$ is $x$ capped at $k$. Of interest in this paper are layers over various $k$ for a random loss, therefore drop $x$ from the notation $L_k(x)$ and write the layer $[k,k+\de k]$ of $x$ as $L_{k+\de k}-L_k$, and note layers and capped losses are functions of $x$ and hence random variables.
-  
+
 Noting $x$ is the sum of its layers covering $[0,\infty]$ as illustrated in \fref{flayer}, and letting $\de k\rightarrow 0$ yields
 \begin{equation}\label{layers}
 x= \int_0^\infty \de L_k = \int_0^\infty L_k' \de k = \int_0^\infty (x>k) \de k \;,
@@ -222,7 +222,7 @@ hence the total area under the mean density is the overall mean loss. Integratin
  representing, for example, the mean covered loss or pure premium under an insurance or reinsurance arrangement with deductible $V_\alpha$ and limit $V_\beta$, and the expected capital shortfall $(\alpha=\gamma,\beta=1)$ or capital usage $(\alpha=0,\beta=\gamma)$ when capital $V_\gamma$ is held against $x$.   Section \aref{srisksetup} discusses risk values of VaR layers, also a critical input to these decisions when volatility is of concern. Applications of mean and risk densities are discussed in  \sref{sapplication} and beyond.
 
 A property analogous to \eref{subset} applies to probability densities -- integrating the probability density over an interval yields the probability over the interval, and integrating over the entire range yields total probability $1$.
- 
+
 Example mean densities for common probability distributions are (In all cases $b>0$ is a scale parameter)
 \bi
 \i The  uniform distribution over $[0,b]$ yields
@@ -555,7 +555,33 @@ $$
 the product of the risk cost and risk ratio over $[0,l]$-VaR layer. Increasing either component increases the profit margin.
 
 
+\section{Credit ratings of tranches of collaterised debt obligations}
 
+Consider a debt with fixed principal $p$ and random default loss $0\le x\le p$. The credit rating of the debt is typically based on the following quantities:
+$$
+\textrm{PD}=\p(x>0) \cq \textrm{PEL}=\frac{\E(x)}{p} \cq \textrm{RR}=\frac{r}{\E(x)}
+$$
+where PD is the default probability, PEL is the expected loss as a proportion of principal and RR is the risk $r=\cov\{x,\phi(u)\}$ of $x$ relative to expected loss. A high credit rating may be based for example on a lower PD, PEL and RR. 
+
+
+Suppose the debt is split into tranches. The default loss on the tranche from $V_\alpha$ to $V_\beta$ is $\max\{\min(x-V_\alpha,0),V_\beta-V_\alpha\}$ and is hence the layer $[V_\alpha,V_\beta]$ of $x$. The principal of this tranche is layer width $V_\beta-V_\alpha$. In addition $V_\alpha$ and $V_\beta$ are attachment and detachment points of the tranche, respectively. There is a default loss if $x>V_\alpha$, and a complete loss of principal if $x>V_\beta$. Adding principals across all tranches yields the overall principal $p$ and the same result applies to default losses.
+
+
+Splitting a debt into tranches is used in securitisation to enhance the credit quality of portions of the debt \citep{mandel2012role}, and are common in collaterised debt obligations \citep{duffie2001risk}. Lower, junior tranches are more likely to suffer a default loss and are assigned a lower credit rating. Higher, senior tranches only suffer default losses after losses have passed through junior tranches and hence receive a higher credit rating.
+
+
+Corresponding credit rating statistics for the tranche or layer $[V_\alpha,V_\beta]$, using mean and risk densities defined in \eref{xxx} and \eref{xxx}, are
+$$
+\textrm{PD}=\p(x>V_\alpha)=1-\alpha \cq  
+\textrm{PEL}=\frac{\int_\alpha^\beta m_\pi \de \pi}{V_\beta-V_\alpha} = \frac{\int_\alpha^\beta (1-\pi)V_\pi' \de \pi}{\int_\alpha^\beta V_\pi' \de \pi}  \;,
+$$
+$$
+\textrm{RR} = \frac{\int_\alpha^\beta r_\pi \de \pi}{\int_\alpha^\beta m_\pi \de \pi}
+=\frac{\int_\alpha^\beta r_\pi^* m_\pi \de \pi}{\int_\alpha^\beta m_\pi \de \pi}
+$$
+where as before $V_\pi'$ is the derivative of VaR$_\pi$ with respect to $\pi$ and $r_\pi^*=r_\pi/m_\pi$ is the risk ratio of the VaR$_\pi$ layer of $x$. Hence PEL is a weighted average of default probabilities $1-\pi$ from $\pi=\alpha$ to $\beta$, where weights are VaR derivatives. Setting $\beta \rightarrow\alpha$ leads to PEL$\rightarrow 1-\alpha$ which is the PD. RR is a weighted average of risk ratios from $\alpha$ to $\beta$. Note PEL in this case is also rate-on-line in reinsurance.
+
+Note PD and RR increase as $\alpha$ or $\beta$ increases. Hence the probability and expected proportion of default are both smaller for higher tranches, consistent with common knowledge. However RR increases since $r_\pi^*$ is increasing in $\pi$. Hence the default loss becomes are riskiness in higher tranches. In addition, as default losses on tranches are comonotonic, there is no diversification benefit from holding multiple tranches originating from the same loss.
 
 \section{Setting capital based on expected shortfall}
 
