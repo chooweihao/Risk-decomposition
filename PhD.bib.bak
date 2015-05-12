@@ -79,6 +79,7 @@
   year={2012},
   publisher={Federal Reserve Bank of New York}
 }
+<<<<<<< HEAD
 
 
 @article{das2011differences,
@@ -88,6 +89,8 @@
   year={2011}
 }
 
+=======
+>>>>>>> origin/master
 
 @article{zhou2010dependence,
   title={Dependence structure of risk factors and diversification effects},

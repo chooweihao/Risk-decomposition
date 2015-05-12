@@ -1,11 +1,19 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Risk decomposition v3.aux
 The style file: chicago.bst
 Database file #1: PhD.bib
+<<<<<<< HEAD
 Repeated entry---line 1323 of file PhD.bib
  : @article{choo2009loss
  :                      ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 1567 of file PhD.bib
+=======
+Repeated entry---line 1312 of file PhD.bib
+ : @article{choo2009loss
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1556 of file PhD.bib
+>>>>>>> origin/master
  : @article{wang1997aci
  :                     ,
 I'm skipping whatever remains of this entry

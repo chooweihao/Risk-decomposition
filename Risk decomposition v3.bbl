@@ -62,12 +62,15 @@ Hogg, R.~V. and S.~A. Klugman (2009).
 \newblock {\em Loss distributions}, Volume 249.
 \newblock John Wiley \& Sons.
 
+<<<<<<< HEAD
 \bibitem[\protect\citeauthoryear{Kolb}{Kolb}{2010}]{kolb2010lessons}
 Kolb, R. (2010).
 \newblock {\em Lessons from the financial crisis: Causes, consequences, and our
   economic future}, Volume~12.
 \newblock John Wiley \& Sons.
 
+=======
+>>>>>>> origin/master
 \bibitem[\protect\citeauthoryear{Lee}{Lee}{1988}]{lee1988mathematics}
 Lee, Y.-S. (1988).
 \newblock The mathematics of excess of loss coverages and retrospective
