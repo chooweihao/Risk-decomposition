@@ -1,0 +1,128 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Acerbi}{Acerbi}{2002}]{acerbi2002spectral}
+Acerbi, C. (2002).
+\newblock Spectral measures of risk: a coherent representation of subjective
+  risk aversion.
+\newblock {\em Journal of Banking \& Finance\/}~{\em 26\/}(7), 1505--1518.
+
+\bibitem[\protect\citeauthoryear{Artzner, Delbaen, Eber, and Heath}{Artzner
+  et~al.}{1999}]{artzner1999cmr}
+Artzner, P., F.~Delbaen, J.~Eber, and D.~Heath (1999).
+\newblock {COHERENT MEASURES OF RISK}.
+\newblock {\em Mathematical Finance\/}~{\em 9\/}(3), 203--228.
+
+\bibitem[\protect\citeauthoryear{Campana and Ferretti}{Campana and
+  Ferretti}{2014}]{campana2014risk}
+Campana, A. and P.~Ferretti (2014).
+\newblock Risk measures in solvency regulation: Reinsurance layers and
+  unexpected loss.
+\newblock {\em Applied Mathematical Sciences\/}~{\em 8\/}(116), 5783--5794.
+
+\bibitem[\protect\citeauthoryear{Chernobai, Rachev, and Fabozzi}{Chernobai
+  et~al.}{2008}]{chernobai2008operational}
+Chernobai, A.~S., S.~T. Rachev, and F.~J. Fabozzi (2008).
+\newblock {\em Operational risk: a guide to Basel II capital requirements,
+  models, and analysis}, Volume 180.
+\newblock John Wiley \& Sons.
+
+\bibitem[\protect\citeauthoryear{Choo and De~Jong}{Choo and
+  De~Jong}{2009}]{choo2009loss}
+Choo, W. and P.~De~Jong (2009).
+\newblock Loss reserving using loss aversion functions.
+\newblock {\em Insurance: Mathematics and Economics\/}~{\em 45\/}(2), 271--277.
+
+\bibitem[\protect\citeauthoryear{Das and Stein}{Das and
+  Stein}{2011}]{das2011differences}
+Das, A. and R.~M. Stein (2011).
+\newblock Differences in tranching methods: Some results and implications.
+\newblock {\em New York: Moody’s Research Labs\/}.
+
+\bibitem[\protect\citeauthoryear{Duffie and Garleanu}{Duffie and
+  Garleanu}{2001}]{duffie2001risk}
+Duffie, D. and N.~Garleanu (2001).
+\newblock Risk and valuation of collateralized debt obligations.
+\newblock {\em Financial Analysts Journal\/}~{\em 57\/}(1), 41--59.
+
+\bibitem[\protect\citeauthoryear{Eling, Schmeiser, and Schmit}{Eling
+  et~al.}{2007}]{eling2007solvency}
+Eling, M., H.~Schmeiser, and J.~Schmit (2007).
+\newblock The solvency ii process: Overview and critical analysis.
+\newblock {\em Risk Management and Insurance Review\/}~{\em 10\/}(1), 69.
+
+\bibitem[\protect\citeauthoryear{Evans}{Evans}{2001}]{evans2001exposure}
+Evans, J. (2001).
+\newblock Exposure rating loss layers: Unifying the property perspective of
+  severity with the l iab ility perspective of frequency.
+\newblock {\em Including the Reserves Call Papers\/}, 493.
+
+\bibitem[\protect\citeauthoryear{Hogg and Klugman}{Hogg and
+  Klugman}{2009}]{hogg2009loss}
+Hogg, R.~V. and S.~A. Klugman (2009).
+\newblock {\em Loss distributions}, Volume 249.
+\newblock John Wiley \& Sons.
+
+\bibitem[\protect\citeauthoryear{Kolb}{Kolb}{2010}]{kolb2010lessons}
+Kolb, R. (2010).
+\newblock {\em Lessons from the financial crisis: Causes, consequences, and our
+  economic future}, Volume~12.
+\newblock John Wiley \& Sons.
+
+\bibitem[\protect\citeauthoryear{Lee}{Lee}{1988}]{lee1988mathematics}
+Lee, Y.-S. (1988).
+\newblock The mathematics of excess of loss coverages and retrospective
+  rating-a graphical approach.
+\newblock {\em PCAS LXXV\/}~{\em 49}.
+
+\bibitem[\protect\citeauthoryear{Mandel, Morgan, and Wei}{Mandel
+  et~al.}{2012}]{mandel2012role}
+Mandel, B., D.~Morgan, and C.~Wei (2012).
+\newblock The role of bank credit enhancements in securitization.
+\newblock {\em Federal Reserve Bank of New York Economic Policy Review\/}~{\em
+  18\/}(2), 35--46.
+
+\bibitem[\protect\citeauthoryear{Miccolis}{Miccolis}{1977}]{miccolis1977theory}
+Miccolis, R.~S. (1977).
+\newblock On the theory of increased limits and excess of loss pricing.
+\newblock {\em PCAS LXIV\/}, 27.
+
+\bibitem[\protect\citeauthoryear{Salzmann}{Salzmann}{1963}]{salzmann1963rating}
+Salzmann, R.~E. (1963).
+\newblock Rating by layer of insurance.
+\newblock {\em PC, 4S\/}, 15--26.
+
+\bibitem[\protect\citeauthoryear{Shaked and Shanthikumar}{Shaked and
+  Shanthikumar}{2007}]{shaked2007stochastic}
+Shaked, M. and J.~G. Shanthikumar (2007).
+\newblock {\em Stochastic orders}.
+\newblock Springer Science \& Business Media.
+
+\bibitem[\protect\citeauthoryear{Wang}{Wang}{1995}]{wang1995insurance}
+Wang, S. (1995).
+\newblock Insurance pricing and increased limits ratemaking by proportional
+  hazards transforms.
+\newblock {\em Insurance: Mathematics and Economics\/}~{\em 17\/}(1), 43--54.
+
+\bibitem[\protect\citeauthoryear{Wang}{Wang}{1996}]{wang1996pct}
+Wang, S. (1996).
+\newblock {Premium Calculation by Transforming the Premium Layer Density}.
+\newblock {\em ASTIN Bulletin\/}~{\em 26\/}(1), 71--92.
+
+\bibitem[\protect\citeauthoryear{Wang}{Wang}{1998}]{wang1998actuarial}
+Wang, S. (1998).
+\newblock An actuarial index of the right-tail risk.
+\newblock {\em North American Actuarial Journal\/}~{\em 2\/}(2), 88--101.
+
+\bibitem[\protect\citeauthoryear{Wang}{Wang}{2000}]{wang2000cdo}
+Wang, S. (2000).
+\newblock {A class of distortion operators for pricing financial and insurance
+  risks}.
+\newblock {\em Journal of Risk and Insurance\/}~{\em 67\/}(1), 15--36.
+
+\bibitem[\protect\citeauthoryear{Wang, Young, and Panjer}{Wang
+  et~al.}{1997}]{wang1997aci}
+Wang, S., V.~Young, and H.~Panjer (1997).
+\newblock {Axiomatic characterization of insurance prices}.
+\newblock {\em Insurance Mathematics and Economics\/}~{\em 21\/}(2), 173--183.
+
+\end{thebibliography}
